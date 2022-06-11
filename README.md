@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ### 🔭 I’m currently working on
-- [kmdc](petuska.dev/kmdc)
-- [kamp](petuska.dev/kamp)
-- [npm-publish](petuska.dev/npm-publish)
+- [kmdc](https://petuska.dev/kmdc)
+- [kamp](https://petuska.dev/kamp)
+- [npm-publish](https://petuska.dev/npm-publish)
 
 ### 🌱 I’m currently learning
 - Android
@@ -13,8 +13,8 @@
 - Kotlin Multiplatform
 
 ### 🤔 I’m looking for help with
-- [kmdc](petuska.dev/kmdc)
-- [npm-publish](petuska.dev/npm-publish)
+- [kmdc](https://petuska.dev/kmdc)
+- [npm-publish](https://petuska.dev/npm-publish)
 
 ### 💬 Ask me about
 - Kotlin/JS
