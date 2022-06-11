@@ -22,7 +22,7 @@
 - Gradle
 
 ### 📫 How to reach me
-- [email](mailto:martynas@petuska.dev)
+- [Email](mailto:martynas@petuska.dev)
 - [Kotlinlang Slack](https://kotlinlang.slack.com/team/UL1A5BA2X)
 - [Gradle Community Slack](https://gradle-community.slack.com/team/U022JB3L18U)
 
