@@ -25,6 +25,7 @@
 - [Email](mailto:martynas@petuska.dev)
 - [Kotlinlang Slack](https://kotlinlang.slack.com/team/UL1A5BA2X)
 - [Gradle Community Slack](https://gradle-community.slack.com/team/U022JB3L18U)
+- [dev.to](https://dev.to/mpetuska)
 
 ### ⚡ Fun fact
 - For whatever reason I've graduated in Bsc Economics...
